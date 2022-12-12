@@ -1,0 +1,22 @@
+.main-contaner{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-card{
+    width: 250px;
+    display: flex;
+    flex-direction: column;  
+}
+.forgot-text{
+    text-align: right;
+    margin-top: -16px;
+    margin-bottom: 10px;
+    font-size: small;
+    z-index: 300;
+}
+.signup-btn{
+    margin: 20px 0px;
+    width: 100%;
+}
